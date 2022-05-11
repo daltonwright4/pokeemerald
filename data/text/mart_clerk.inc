@@ -3,7 +3,7 @@ gText_HowMayIServeYou::
 	.string "Whatchu want, fam?$"
 
 gText_PleaseComeAgain::
-	.string "Come back now, y'ok?$"
+	.string "Come on back now, y'ok?$"
 
 gText_PlayerWhatCanIDoForYou::
 	.string "{PLAYER}{STRING 5}, welcome!\p"
