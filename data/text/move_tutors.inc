@@ -25,27 +25,22 @@ MoveTutor_Text_SwaggerTaught:
 	.string "on without the swagger.$"
 
 MoveTutor_Text_RolloutTeach:
-	.string "Did you know that you can go from\n"
-	.string "here a long way in that direction\l"
-	.string "without changing direction?\p"
-	.string "I might even be able to roll\n"
-	.string "that way.\p"
-	.string "Do you think your POKéMON will\n"
-	.string "want to roll, too?\p"
+	.string "Bro, do you fuck with Ludacris?\n"
+	.string "Rollout! Rollout!\n"
 	.string "I can teach one the move ROLLOUT\n"
-	.string "if you'd like.$"
+	.string "if you want me to.$"
 
 MoveTutor_Text_RolloutDeclined:
-	.string "You don't need to be shy about it.\n"
-	.string "Let's roll!$"
+	.string "Ight fuck you den, bruh\n"
+	.string "You a bitch!$"
 
 MoveTutor_Text_RolloutWhichMon:
-	.string "Ehehe, sure thing! It'd be great if\n"
+	.string "Ight, cool! It'd be chill if\n"
 	.string "the POKéMON looked like me.$"
 
 MoveTutor_Text_RolloutTaught:
-	.string "Rolling around in the grass makes me\n"
-	.string "happy. Come on, let's roll!$"
+	.string "Ight holla at me playa!\n"
+	.string "Come on, let's roll!$"
 
 MoveTutor_Text_FuryCutterTeach:
 	.string "There's a move that gets stronger\n"
